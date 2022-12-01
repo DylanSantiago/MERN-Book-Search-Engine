@@ -17,7 +17,8 @@ First you must clone the repository to your device and then run npm install to a
 After installation and starting the server by running 'npm run develop' in the command line, the user is taken to the applications homepage where they can search for books. Saving books to a profile is only available to users who are logged in. Users who are not logged in will not be able to save books.
 
 ## Screenshot 
-(Developing)
+<img width="1282" alt="Screen Shot 2022-12-01 at 1 37 41 AM" src="https://user-images.githubusercontent.com/107218398/205182509-d335463a-7a87-4339-8c7e-7fc6e670a443.png">
+
 
 ## Deployed Link
 [Deployed Link](https://dylans-book-search-app.herokuapp.com)

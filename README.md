@@ -20,4 +20,4 @@ After installation and starting the server by running 'npm run develop' in the c
 (Developing)
 
 ## Deployed Link
-[Deployed Link]()
+[Deployed Link](https://dylans-book-search-app.herokuapp.com)
